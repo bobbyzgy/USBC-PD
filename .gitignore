@@ -2,7 +2,7 @@
 .DS_Store
 
 # ignore Xilinx Vivado Directory structure
-imager.*/
+/fpga/usbcpd.*
 
 # ingore Xilinx Vivado generated files
 /*.xpr
